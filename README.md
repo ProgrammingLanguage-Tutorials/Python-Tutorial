@@ -55,7 +55,7 @@ Bienvenue dans cette série de vidéos dédiée à l’apprentissage du langage 
 
 ## 🔗 Liens utiles
 
-- Playlist YouTube complète : [👉 Lien vers la série](https://www.youtube.com/playlist?list=PLQTy6H0nkDIYBWaZROHULKRiUqF_1hXbY) *(à modifier)*
+- Playlist YouTube complète : [👉 Lien vers la série](https://www.youtube.com/playlist?list=PLQTy6H0nkDIYBWaZROHULKRiUqF_1hXbY)
 - Documentation officielle Python : [https://docs.python.org/fr/3/](https://docs.python.org/fr/3/)
 
 ---
